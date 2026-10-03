@@ -1,8 +1,12 @@
-# Python if else
+# Grade checker
 
-age = int(input("Enter your age: "))
+score = int(input("Enter your score: "))
 
-if age >= 18:
-    print("You are an adult")
+if score >= 90:
+    print("Excellent")
+elif score >= 70:
+    print("Good")
+elif score >= 50:
+    print("Pass")
 else:
-    print("You are a minor")
+    print("Failed")
