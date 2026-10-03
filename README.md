@@ -5,6 +5,7 @@ A beginner-friendly Python learning repository.
 This repository contains my Python learning journey, practice codes, and small projects while improving my programming skills.
 
 ## 📚 What is inside?
+## first start whit basics directory 
 
 * Python basics
 * Variables and data types
