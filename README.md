@@ -57,15 +57,15 @@ This repository contains my Python learning journey, practice codes, and small p
 
 ## Advanced
 
-1. [OOP](https://github.com/porialinux/learnpython/blob/main/advanced/oop.py)
+1. [OOP](https://github.com/porialinux/learnpython/blob/main/learn-python/advanced/oop.py)
 
-2. [Classes](https://github.com/porialinux/learnpython/blob/main/advanced/classes.py)
+2. [Classes](https://github.com/porialinux/learnpython/blob/main/learn-python/advanced/classes.py)
 
-3. [Inheritance](https://github.com/porialinux/learnpython/blob/main/advanced/inheritance.py)
+3. [Inheritance](https://github.com/porialinux/learnpython/blob/main/learn-python/advanced/inheritance.py)
 
-4. [Encapsulation](https://github.com/porialinux/learnpython/blob/main/advanced/encapsulation.py)
+4. [Encapsulation](https://github.com/porialinux/learnpython/blob/main/learn-python/advanced/encapsulation.py)
 
-5. [Polymorphism](https://github.com/porialinux/learnpython/blob/main/advanced/polymorphism.py)
+5. [Polymorphism](https://github.com/porialinux/learnpython/blob/main/learn-python/advanced/polymorphism.py)
 * Python basics
 * Variables and data types
 * Conditions and loops
