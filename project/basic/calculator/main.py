@@ -1,22 +1,13 @@
-# Basic Calculator
-
-def add(a, b):
-    return a + b
-
-def subtract(a, b):
-    return a - b
-
-def multiply(a, b):
-    return a * b
-
-def divide(a, b):
-    return a / b
-
-
-num1 = int(input("First number: "))
-num2 = int(input("Second number: "))
-
-print("Sum:", add(num1, num2))
-print("Minus:", subtract(num1, num2))
-print("Multiply:", multiply(num1, num2))
-print("Divide:", divide(num1, num2))
+#input 
+frist_number=float(input("frist number : "))
+input_Process=str(input("input Process : "))
+secend_number=float(input("secend number : "))
+#Process
+if input_Process =="+":
+    print("Answer is a",frist_number+secend_number)
+elif input_Process == "-":
+    print("Answer is a",frist_number-secend_number)
+elif input_Process == "*":
+    print("Answer is a",frist_number*secend_number)
+elif input_Process == "/":
+    print("Answer is a",frist_number/secend_number)
