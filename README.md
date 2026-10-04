@@ -4,9 +4,8 @@ A beginner-friendly Python learning repository.
 
 This repository contains my Python learning journey, practice codes, and small projects while improving my programming skills.
 
-## 📚 What is inside?
 ## first start whit basics directory 
-## 01 - Basics
+## Basics
 
 1. [Hello World](https://github.com/porialinux/learnpython/blob/main/01-basics/hello_world.py)
 
@@ -38,6 +37,35 @@ This repository contains my Python learning journey, practice codes, and small p
 
 15. [Function Arguments](https://github.com/porialinux/learnpython/blob/main/01-basics/function_arguments.py)
 
+## Intermediate
+
+1. [Strings](https://github.com/porialinux/learnpython/blob/main/intermediate/strings.py)
+
+2. [Sets](https://github.com/porialinux/learnpython/blob/main/intermediate/sets.py)
+
+3. [List Comprehension](https://github.com/porialinux/learnpython/blob/main/intermediate/list_comprehension.py)
+
+4. [Modules](https://github.com/porialinux/learnpython/blob/main/intermediate/modules.py)
+
+5. [Packages](https://github.com/porialinux/learnpython/blob/main/intermediate/packages.py)
+
+6. [Exceptions](https://github.com/porialinux/learnpython/blob/main/intermediate/exceptions.py)
+
+7. [File Handling](https://github.com/porialinux/learnpython/blob/main/intermediate/file_handling.py)
+
+8. [JSON](https://github.com/porialinux/learnpython/blob/main/intermediate/json.py)
+
+## Advanced
+
+1. [OOP](https://github.com/porialinux/learnpython/blob/main/advanced/oop.py)
+
+2. [Classes](https://github.com/porialinux/learnpython/blob/main/advanced/classes.py)
+
+3. [Inheritance](https://github.com/porialinux/learnpython/blob/main/advanced/inheritance.py)
+
+4. [Encapsulation](https://github.com/porialinux/learnpython/blob/main/advanced/encapsulation.py)
+
+5. [Polymorphism](https://github.com/porialinux/learnpython/blob/main/advanced/polymorphism.py)
 * Python basics
 * Variables and data types
 * Conditions and loops
